@@ -1,0 +1,39 @@
+h1, h2 {
+  font-family: Lato;
+}
+.nav
+{
+  background-color:rgb(240, 52, 52);
+  height:50px;
+  width: 100%;
+  text-align:center;
+  list-style-type: none;
+}
+.header
+{
+  background-color:white;
+  height: 50px;
+  text-align:center;
+}
+.article
+{
+  background-color: LightPink; 
+  float: left;
+  width: 75%;
+}
+.footer
+{
+  background-color: Crimson; 
+  position: absolute;
+  bottom: -5%;
+  width: 100%;
+  clear: both;
+  margin-top: -50px;
+}
+.aside
+{
+  float: right;
+  background-color: HotPink;
+
+  width: 25%;
+}
